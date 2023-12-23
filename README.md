@@ -4,10 +4,10 @@
 Welcome to my GitHub profile! I'm a passionate and results-driven junior software engineer with a solid foundation in computer science and a recent graduate from Codespace Academy. I am dedicated to continuous learning and thrive in collaborative environments where I can contribute my skills and creativity to solve real-world problems.
 
 ## 🛠️ Skills
-Languages: Python, Javascript, HTML, CSS   
-Web Development: ReactJS, NodeJS   
-Databases: MongoDB, MySQL   
-Version Control: Git, Github   
+Languages: Python, Javascript, HTML, CSS<br>
+Web Development: ReactJS, NodeJS<br>
+Databases: MongoDB, MySQL<br>
+Version Control: Git, Github<br>
 
 <!-- ## 🚀 Projects
 ### Project 1: [Project Name]
