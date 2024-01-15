@@ -1,5 +1,5 @@
 # KHOMOTSO GOJELA
-### 🚀 Junior Software Engineer | Codespace Academy Graduate
+### 🚀 Junior Software Engineer
 
 Welcome to my GitHub profile! I'm a passionate and results-driven junior software engineer with a solid foundation in computer science and a recent graduate from Codespace Academy. I am dedicated to continuous learning and thrive in collaborative environments where I can contribute my skills and creativity to solve real-world problems.
 
