@@ -1,30 +1,22 @@
 # KHOMOTSO GOJELA
-### 🚀 Junior Software Engineer
+### Junior Software Engineer
 
-Welcome to my GitHub profile! I'm a passionate and results-driven junior software engineer with a solid foundation in computer science and a recent graduate from Codespace Academy. I am dedicated to continuous learning and thrive in collaborative environments where I can contribute my skills and creativity to solve real-world problems.
+Welcome to my GitHub profile! I'm a passionate and results-driven junior software engineer with a solid foundation in computer science. I am dedicated to continuous learning and thrive in collaborative environments where I can contribute my skills and creativity to solve real-world problems.
 
-## 🛠️ Skills
+## Skills
 Languages: Python, Javascript, HTML, CSS<br>
 Web Development: ReactJS, NodeJS<br>
 Databases: MongoDB, MySQL<br>
 Version Control: Git, Github<br>
 
-<!-- ## 🚀 Projects
-### Project 1: [Project Name]
-Brief description of the project, including your role and the technologies used. Add a link to the project repository or deployed version.
-
-### Project 2: [Project Name]
-Another project description with relevant details. Showcase your diversity by including a mix of personal, academic, or collaborative projects.
--->
-
-## 📚 Education
+## Education
 #### Codespace Academy | 2023   
 Software Development
 
 #### University Of Johannesburg(2yrs)   
 BSc Computer Science and Informatics
 
-## 🌱 What I'm Currently Learning   
+## What I'm Currently Learning   
 * Data Science
 
 ## 📫 Let's Connect!
